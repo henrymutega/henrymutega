@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Henry Mutega</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Henry+Mutega!;" />
+</h1>
 <h3 align="center">A dynamic Frontend Developer and Cloud Engineer hailing from Nairobi, Kenya, passionate about crafting innovative digital experiences and leveraging the power of the cloud to drive technological excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrymutega&label=Profile%20views&color=0e75b6&style=flat" alt="henrymutega" /> </p>
